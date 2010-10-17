@@ -1,0 +1,12 @@
+// IwUI Project file
+
+dir ""
+group "UI.group"
+palette "iwui_style\expmetapalette.ui"
+material "iwui_style/textures/iwui_style.mtl"
+propset "iwui_style/iwui_propertysets.itx"
+hwswmode 2
+size 320 480
+outlinehierarchy true
+outlinesiblings true
+outlinemargins true

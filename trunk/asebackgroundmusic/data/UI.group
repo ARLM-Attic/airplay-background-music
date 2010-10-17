@@ -1,0 +1,11 @@
+// IwUI Group file created by the tool
+
+CIwResGroup
+{
+	name "UI"
+	
+	"iwui_style/style.group"
+
+	"CustomMusicPicker.ui"
+	"main.ui"
+}

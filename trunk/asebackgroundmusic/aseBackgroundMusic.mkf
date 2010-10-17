@@ -1,0 +1,14 @@
+includepaths
+{
+	"source"
+}
+
+files
+{
+	("source")
+	aseBackgroundMusic.cpp
+	aseBackgroundMusic.h
+}
+subprojects
+{
+}

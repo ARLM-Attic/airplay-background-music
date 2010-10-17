@@ -1,0 +1,27 @@
+CIwUIElement 
+{
+	name "main"
+	CIwUIImage 
+	{
+		name "Background_0"
+		texture "Background"
+	}
+	CIwUIButton 
+	{
+		name "OpenMusicPicker"
+		style <button>
+		caption "Pick a song"
+	}
+	CIwUILayout 
+	{
+		name "Layered"
+		element 
+		{
+			name "Background_0"
+		}
+		element 
+		{
+			name "OpenMusicPicker"
+		}
+	}
+}

@@ -1,0 +1,29 @@
+CIwUIElement 
+{
+	name "CustomMusicPicker"
+	pos  { 0 0 }
+	size  { 320 480 }
+	CIwUIImage 
+	{
+		name "Background"
+		pos  { 0 0 }
+		size  { 320 480 }
+		texture "background"
+		CIwUIButton 
+		{
+			name "Button"
+			pos  { 25 13 }
+			size  { 89 37 }
+			style <button>
+			caption "Cancel"
+		}
+	}
+	CIwUILayout 
+	{
+		name "Layered_0"
+		element 
+		{
+			name "Background"
+		}
+	}
+}
